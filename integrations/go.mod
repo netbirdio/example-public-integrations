@@ -1,4 +1,4 @@
-module integrations
+module github.com/netbirdio/example-public-integrations/integrations
 
 go 1.20
 
